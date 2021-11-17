@@ -1,0 +1,51 @@
+html {
+    margin: 0px;
+    padding: 0px;
+    top: 0px;
+    height: 100vh;
+
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    /* background-color:rgb(98, 210, 214); */
+}
+
+header {
+    top: 0px;
+    margin: 0px;
+    height: 100px;
+    background-color:rgb(98, 210, 214);
+}
+
+.img-1 {
+    height: 700px;
+    background-image: url('https://www.intrepidtravel.com/adventures/wp-content/uploads/2018/06/shutterstock_745246024-e1529899797943.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.set-1 {
+    height: 500px;
+    width: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.img-2 {
+    background-image: url('https://www.intrepidtravel.com/adventures/wp-content/uploads/2018/06/shutterstock_745246024-e1529899797943.jpg');
+
+}
+
+.img-3 {
+    background-image: url('https://www.intrepidtravel.com/adventures/wp-content/uploads/2018/06/shutterstock_745246024-e1529899797943.jpg');
+
+}
+
+.img-4 {
+    background-image: url('https://www.intrepidtravel.com/adventures/wp-content/uploads/2018/06/shutterstock_745246024-e1529899797943.jpg');
+
+}
