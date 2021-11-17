@@ -1,20 +1,14 @@
-html {
+ * {
     margin: 0px;
     padding: 0px;
-    top: 0px;
-    height: 100vh;
-
 }
 
 body {
     margin: 0px;
     padding: 0px;
-    /* background-color:rgb(98, 210, 214); */
 }
 
 header {
-    top: 0px;
-    margin: 0px;
     height: 100px;
     background-color:rgb(98, 210, 214);
 }
